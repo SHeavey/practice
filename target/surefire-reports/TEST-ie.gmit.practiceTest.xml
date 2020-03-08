@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="ie.gmit.practiceTest" time="0.14" tests="10" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Shane\OneDrive - GMIT\.aaaaSEMESTER2\SwTest\practice\target\test-classes;C:\Users\Shane\OneDrive - GMIT\.aaaaSEMESTER2\SwTest\practice\target\classes;C:\Users\Shane\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.4.2\junit-jupiter-api-5.4.2.jar;C:\Users\Shane\.m2\repository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;C:\Users\Shane\.m2\repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;C:\Users\Shane\.m2\repository\org\junit\platform\junit-platform-commons\1.4.2\junit-platform-commons-1.4.2.jar;C:\Users\Shane\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.4.2\junit-jupiter-engine-5.4.2.jar;C:\Users\Shane\.m2\repository\org\junit\platform\junit-platform-engine\1.4.2\junit-platform-engine-1.4.2.jar;"/>
+    <property name="java.vm.vendor" value="Amazon.com Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
+    <property name="user.timezone" value="Europe/London"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IE"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Amazon Corretto\jdk11.0.4_10\bin"/>
+    <property name="sun.java.command" value="C:\Users\Shane\AppData\Local\Temp\surefire6062243952114192489\surefirebooter5671041902175971107.jar C:\Users\Shane\AppData\Local\Temp\surefire6062243952114192489 2020-03-08T20-30-46_372-jvmRun1 surefire8072061385558957892tmp surefire_0281342102228003226tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Shane\OneDrive - GMIT\.aaaaSEMESTER2\SwTest\practice\target\test-classes;C:\Users\Shane\OneDrive - GMIT\.aaaaSEMESTER2\SwTest\practice\target\classes;C:\Users\Shane\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.4.2\junit-jupiter-api-5.4.2.jar;C:\Users\Shane\.m2\repository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;C:\Users\Shane\.m2\repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;C:\Users\Shane\.m2\repository\org\junit\platform\junit-platform-commons\1.4.2\junit-platform-commons-1.4.2.jar;C:\Users\Shane\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.4.2\junit-jupiter-engine-5.4.2.jar;C:\Users\Shane\.m2\repository\org\junit\platform\junit-platform-engine\1.4.2\junit-platform-engine-1.4.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Shane"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2019-07-16"/>
+    <property name="java.home" value="C:\Program Files\Amazon Corretto\jdk11.0.4_10"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Shane\OneDrive - GMIT\.aaaaSEMESTER2\SwTest\practice"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="idea.version2019.2.3" value="true"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Shane\AppData\Local\Temp\surefire6062243952114192489\surefirebooter5671041902175971107.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.4+11-LTS"/>
+    <property name="user.name" value="Shane"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Corretto-11.0.4.11.1"/>
+    <property name="localRepository" value="C:\Users\Shane\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-11/issues/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Shane\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.4"/>
+    <property name="user.dir" value="C:\Users\Shane\OneDrive - GMIT\.aaaaSEMESTER2\SwTest\practice"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Amazon Corretto\jdk11.0.4_10\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Amazon Corretto\jdk11.0.4_10\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\SourceGear\Common\DiffMerge\;C:\Program Files\nodejs\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Users\Shane\AppData\Local\Microsoft\WindowsApps;C:\Users\Shane\AppData\Local\Android\Sdk\platform-tools;C:\Users\Shane\AppData\Local\atom\bin;C:\Users\Shane\AppData\Roaming\npm;C:\Users\Shane\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Shane\AppData\Local\Programs\Microsoft VS Code Insiders\bin;."/>
+    <property name="java.vendor" value="Amazon.com Inc."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.4+11-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="testSetAgeSuccess" classname="ie.gmit.practiceTest" time="0.033"/>
+  <testcase name="testSetNameFail" classname="ie.gmit.practiceTest" time="0.008"/>
+  <testcase name="testSetNameSuccess" classname="ie.gmit.practiceTest" time="0.001"/>
+  <testcase name="testSetIdSuccess" classname="ie.gmit.practiceTest" time="0.005"/>
+  <testcase name="testSetPhoneSuccess" classname="ie.gmit.practiceTest" time="0.001"/>
+  <testcase name="testSetTitleFail" classname="ie.gmit.practiceTest" time="0.005"/>
+  <testcase name="testSetIdFail" classname="ie.gmit.practiceTest" time="0.003"/>
+  <testcase name="testSetAgeFail" classname="ie.gmit.practiceTest" time="0.001"/>
+  <testcase name="testSetTitleSuccess" classname="ie.gmit.practiceTest" time="0.004"/>
+  <testcase name="testSetPhoneFail" classname="ie.gmit.practiceTest" time="0.001"/>
+</testsuite>
